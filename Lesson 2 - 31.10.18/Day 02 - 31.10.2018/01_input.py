@@ -1,7 +1,6 @@
 # Class task: get the name from the user, and print it 3 times
 
-name=input("Enter 
-your name: ") + ' '
+name=input("Enter your name: ")
 print(name*3)
 
 
