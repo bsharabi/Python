@@ -1,2 +1,0 @@
-cd C:\Users\Barak\Desktop\Barak Computer\לימודים\לימודים\שנה ב\סמסטר א\Python-2019A-ll\Python-2019A-II
-move Day 03 - 07.11.2018 C:\Users\Barak\Desktop\Barak Computer\לימודים\לימודים\שנה ב\סמסטר א\Python-2019A-ll\Lesson  3 - 07.11.18
