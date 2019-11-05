@@ -19,7 +19,6 @@ try:
 except Exception:  # catches all the exceptions that are from "Exception" class or sub-class
     print("non valid age")
 
-
 except OverAgeExeption:
     print("OverAgeExeption non valid age")
 
